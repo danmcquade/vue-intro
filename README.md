@@ -2,6 +2,9 @@
 
 > A simple portfolio page created with Vue.js
 
+![Vue-Portfolio Preview Screenshot](https://github.com/danmcquade/vue-portfolio/blob/master/preview.png)
+
+
 ## What did you choose this subject
 
 - Doing some initial research this morning, it looks like Vue.js is growing rapidly in popularity, and it would probably be a good idea to have some hands-on experience with it.
@@ -12,7 +15,7 @@
 
 ## Why does one use it?
 
--Some of that primary advantages of Vue are that it is lightweight, component-based, and the core library is intended primarily for building user interfaces. 
+-Some of that primary advantages of Vue are that it is lightweight, component-based, and the core library is intended primarily for building user interfaces.
 
 ## Build Setup
 
