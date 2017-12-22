@@ -1,6 +1,7 @@
 # Vue-Portfolio
 
 > A simple portfolio page created with Vue.js
+> Live demo at https://danmcquade.github.io/vue-portfolio/
 
 ![Vue-Portfolio Preview Screenshot](https://github.com/danmcquade/vue-portfolio/blob/master/preview.png)
 
