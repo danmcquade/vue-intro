@@ -16,7 +16,7 @@
 
 ## Why does one use it?
 
--Some of that primary advantages of Vue are that it is lightweight, component-based, and the core library is intended primarily for building user interfaces.
+- Some of that primary advantages of Vue are that it is lightweight, component-based, and the core library is intended primarily for building user interfaces.
 
 ## Build Setup
 
