@@ -1,17 +1,17 @@
 <template>
   <div class='portfolio'>
     <div class='portfolio-item'>
-      <img src='../assets/ss-ipaws.png' />
+      <a href='https://github.com/danmcquade/ipaws-front-end'><img src='../assets/ss-ipaws.png' /></a>
       <h3>iPaws</h3>
       <p>A proof-of-concept site for a pet adoption organization. Built using Mongoose, Express, React and Node (MERN stack).</p>
     </div>
     <div class='portfolio-item'>
-      <img src='../assets/ss-photos.png' />
+      <a href='https://github.com/danmcquade/photos-on-rails'><img src='../assets/ss-photos.png' /></a>
       <h3>Photos-on-Rails</h3>
       <p>A fully-functional photo sharing site inspired by Flickr. Built with Ruby on Rails and utilizing Amazon S3 for storage.</p>
     </div>
     <div class='portfolio-item'>
-      <img src='../assets/ss-irish.png' />
+      <a href='https://irishfirelogs.com/'><img src='../assets/ss-irish.png' /></a>
       <h3>Irish Fire Logs</h3>
       <p>An ecommerce site for the Irish Fire Logs brand. Build with Bootstrap, PHP, and utilizing Stripe for payment processing.</p>
     </div>
