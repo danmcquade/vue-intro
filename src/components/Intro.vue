@@ -18,7 +18,7 @@
           firstName: 'Dan',
           lastName: 'McQuade'
         },
-        intro: 'A Washington, DC-based Full Stack Web Developer'
+        intro: 'A Washington, DC-based Full-Stack Web Developer'
       }
     },
     methods: {
