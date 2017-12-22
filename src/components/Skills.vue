@@ -14,6 +14,7 @@
         skills: [
           {skillName: 'JavaScript'},
           {skillName: 'HTML/CSS'},
+          {skillName: 'Ruby'},
           {skillName: 'Ruby on Rails'},
           {skillName: 'React'}
         ]
