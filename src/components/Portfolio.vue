@@ -16,7 +16,7 @@
       <p>An ecommerce site for the Irish Fire Logs brand. Built with Bootstrap, PHP, and utilizing Stripe for payment processing.</p>
     </div>
     <div class='portfolio-item'>
-      <img src='../assets/ss-simon.png' />
+      <a href='https://github.com/danmcquade/js-simon'><img src='../assets/ss-simon.png' /></a>
       <h3>JS-Simon</h3>
       <p>The classic electronic game of memory skill Simon, re-created for the web. Built using vanilla JavaScript, HTML and CSS.</p>
     </div>
