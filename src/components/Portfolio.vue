@@ -13,7 +13,7 @@
     <div class='portfolio-item'>
       <a href='https://irishfirelogs.com/'><img src='../assets/ss-irish.png' /></a>
       <h3>Irish Fire Logs</h3>
-      <p>An ecommerce site for the Irish Fire Logs brand. Build with Bootstrap, PHP, and utilizing Stripe for payment processing.</p>
+      <p>An ecommerce site for the Irish Fire Logs brand. Built with Bootstrap, PHP, and utilizing Stripe for payment processing.</p>
     </div>
     <div class='portfolio-item'>
       <img src='../assets/ss-simon.png' />
