@@ -1,24 +1,29 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
+    <Intro />
+    <Skills />
+    <Portfolio />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+import Intro from './components/Intro'
+import Skills from './components/Skills'
+import Portfolio from './components/Portfolio'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Intro,
+    Skills,
+    Portfolio
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
